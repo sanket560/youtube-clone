@@ -1,8 +1,4 @@
-# React + Vite
+# React Youtube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/sanket560/youtube-clone/assets/68066761/0a9dfa30-d1af-42b5-a447-466d0e4ea864)
+![image](https://github.com/sanket560/youtube-clone/assets/68066761/94972dcf-58c3-4e79-96b1-2deadb7b586a)
